@@ -1,0 +1,100 @@
+:root {
+    --purple: #A7B5E5;
+    --purple-shadow: #45448F;
+    --cream: #F8E7CE;
+    --cream-shadow: #CEC5AA;
+    --pink: #E76F88;
+}
+
+.recipe-checker-body {
+    font-family: Arial, sans-serif;
+    color: white;
+    width: 350px;
+    padding: 15px;
+    background-color: var(--purple);
+}
+
+#recipe-checker h2 {
+    margin-top: 0;
+    text-shadow: 0 2px 0 var(--purple-shadow);
+}
+
+#recipe-checker button {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    background-color: var(--cream);
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+#recipe-checker button:hover {
+    background-color: var(--pink);
+    color: white;
+}
+
+#recipe-checker .recipe {
+    border-radius: 6px;
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+#recipe-checker .recipe h3 {
+    margin: 0 0 5px 0;
+}
+
+.ingredients-dropdown {
+    color: var(--purple-shadow);
+    cursor: pointer;
+}
+
+#recipe-checker #results {
+    max-height: 450px;
+    overflow-y: auto;
+    background-color: var(--cream);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#recipe-checker .container {
+    display: flex;
+    flex-direction: row;
+    column-gap: 4px;
+}
+
+#recipe-checker .icon-container {
+    padding: 4px;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+#recipe-checker .img {
+    position: absolute;
+    z-index: 2;
+}
+
+#recipe-checker .circle {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: linear-gradient(80deg, #CEC5AA, #F8E7CE);
+    border-radius: 5px;
+    position: absolute;
+    top: 22px;
+    left: 4px;
+    z-index: 1;
+}
+
+#recipe-checker .temp {
+    position: absolute;
+    top: 20px;
+    left: 26px;
+    z-index: 3;
+}

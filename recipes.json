@@ -1,0 +1,240 @@
+[
+    {
+        "id": 1,
+        "name": "Roasted Fish",
+        "ingredients": {
+            "Glazing Sauce": 1,
+            "Salt": 1,
+            "Frozen Fish": 1
+        },
+        "value": 125000
+    },
+    {
+        "id": 2,
+        "name": "Sweet Dango",
+        "ingredients": {
+            "Glazing Sauce": 1,
+            "Clam Meat": 1,
+            "Honey": 1
+        },
+        "value": 125000
+    },
+    {
+        "id": 3,
+        "name": "Candied Apple",
+        "ingredients": {
+            "Glazing Sauce": 1,
+            "Honey": 1,
+            "Royal Jelly": 1
+        },
+        "value": 125000
+    },
+    {
+        "id": 4,
+        "name": "Rice Wrap",
+        "ingredients": {
+            "Glazing Sauce": 1,
+            "Hulled Millet": 1,
+            "Popo's Leaflet": 1
+        },
+        "value": 125000
+    },
+    {
+        "id": 5,
+        "name": "Rice Cake Wrap",
+        "ingredients": {
+            "Blue Sauce": 1,
+            "Popo's Leaflet": 1,
+            "Rice Flour": 1
+        },
+        "value": 125000
+    },
+    {
+        "id": 6,
+        "name": "Dango",
+        "ingredients": {
+            "Blue Sauce": 1,
+            "Rice Flour": 1,
+            "Red Bean": 1
+        },
+        "value": 125000
+    },
+    {
+        "id": 7,
+        "name": "Ginseng Strawberry",
+        "ingredients": {
+            "Blue Sauce": 1,
+            "Strawberry": 1,
+            "Pretty Ginseng": 1,
+            "Honey": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 8,
+        "name": "Takoyaki",
+        "ingredients": {
+            "Blue Sauce": 1,
+            "Octopus Legs": 1,
+            "Flour": 1,
+            "Secret Spice": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 9,
+        "name": "Mango Parfait",
+        "ingredients": {
+            "Green Sauce": 1,
+            "Mango": 1,
+            "Ice": 1,
+            "Biscuit": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 10,
+        "name": "Kiwi Parfait",
+        "ingredients": {
+            "Green Sauce": 1,
+            "Kiwi": 1,
+            "Ice": 1,
+            "Biscuit": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 11,
+        "name": "Watermelon Parfait",
+        "ingredients": {
+            "Green Sauce": 1,
+            "Watermelon": 1,
+            "Ice": 1,
+            "Biscuit": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 12,
+        "name": "Red Bean Parfait",
+        "ingredients": {
+            "Green Sauce": 1,
+            "Red Bean": 1,
+            "Ice": 1,
+            "Biscuit": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 13,
+        "name": "Flower Punch",
+        "ingredients": {
+            "Green Sauce": 1,
+            "Cool Spring Water": 1,
+            "Pink Petal": 1,
+            "Royal Jelly": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 14,
+        "name": "Flower Rice Cake",
+        "ingredients": {
+            "Green Sauce": 1,
+            "Popo's Leaflet": 1,
+            "Pink Petal": 1,
+            "Red Bean": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 15,
+        "name": "Water Dumpling",
+        "ingredients": {
+            "White Sauce": 1,
+            "Rice Flour": 1,
+            "Pea": 1,
+            "Clam Meat": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 16,
+        "name": "Seafood Fried Dumpling",
+        "ingredients": {
+            "White Sauce": 1,
+            "Mung Bean": 1,
+            "Carrot": 1,
+            "Pincers": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 17,
+        "name": "Chocolate Roll",
+        "ingredients": {
+            "White Sauce": 1,
+            "Good Cocoa Powder": 1,
+            "Ironclad Turtle's Egg": 1,
+            "Boiled Corn": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 18,
+        "name": "Pan Fried Noodle",
+        "ingredients": {
+            "White Sauce": 1,
+            "Flour": 1,
+            "Pink Petal": 1,
+            "Scorpion Jerky": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 19,
+        "name": "Beef Rice Bowl",
+        "ingredients": {
+            "Red Sauce": 1,
+            "Carrot": 1,
+            "Pink Petal": 1,
+            "Mung Bean": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 20,
+        "name": "Pan Fried Octopus",
+        "ingredients": {
+            "Red Sauce": 1,
+            "Octopus Legs": 1,
+            "Flour": 1,
+            "Premium Liquor": 1
+        },
+        "value": 250000
+    },
+    {
+        "id": 21,
+        "name": "Vegetable Rice Bowl",
+        "ingredients": {
+            "Red Sauce": 1,
+            "Pea": 1,
+            "Sesame": 1,
+            "Ginseng Root": 1,
+            "Royal Jelly": 1
+        },
+        "value": 350000
+    },
+    {
+        "id": 22,
+        "name": "Kimchi",
+        "ingredients": {
+            "Red Sauce": 1,
+            "Cabbage": 1,
+            "Thick Radish": 1,
+            "Salt": 1,
+            "Red Pepper": 1
+        },
+        "value": 350000
+    }
+]
